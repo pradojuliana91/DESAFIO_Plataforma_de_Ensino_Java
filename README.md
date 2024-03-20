@@ -1,10 +1,12 @@
-DESAFIO: Plataforma de Ensino com Herança e Polimorfismo
+# DESAFIO: Plataforma de Ensino com Herança e Polimorfismo
 
-Acerca do projeto:
+# Acerca do projeto
+
 Projeto desenvolvido no curso Java e Programação Orientada a Objetos Expert - Devsuperior
 
-Objetivos:
-Aplicação dos conceitos de listas, herança e polimorfismo;
+##  Objetivos:
 
-Tecnologias usadas:
-Java
+- Aplicação dos conceitos de listas, herança e polimorfismo;
+
+# Tecnologias usadas
+- Java
